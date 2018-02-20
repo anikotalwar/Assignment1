@@ -76,7 +76,7 @@ public:
         }
         cout<<"\nConnections\n";
         connectIon();
-        cout<<"\nEnter A: ";
+        cout<<"\nEnter ABCD: ";
         cin>>f;
         cout<<"\nEnter B: ";
         cin>>t;
